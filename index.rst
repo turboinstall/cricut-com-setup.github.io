@@ -15,18 +15,19 @@ Cricut.com/setup
     
 |
 
-
 *************
 Learn about the Cricut.com/setup interface
 *************
 
 
-Cricut is simple and easy to use interface software by cricut.com/setup. The main tabs in Cricut are : Fonts, Size and Text. The tab contains a library of pre-made designs that can be downloaded and edited.
+Cricut is simple and easy to use interface software by `cricut.com/setup <https://cricut-comsetup.readthedocs.io/>`_. The main tabs in Cricut are : Fonts, Size and Text. The tab contains a library of pre-made designs that can be downloaded and edited.
 
 
 
 * **Font tab -** This has a library of fonts to choose from, as well as a preview of the font.
+
 * **Shapes tab -** This contains a library of shapes that can be combined, with options to edit the size and color.
+
 * **Text Tab -** It has option to add text as well as change font and color.
 
 
@@ -44,8 +45,13 @@ How to Get Cricut.com/setup Software?
 
 
 * If you have the Getting Started flyer included in your Cricut cutting machine box, just follow the instructions to start downloading Cricut software.
-* If not, open a browser on your computer and go to cricut.com/setup . From here you’ll be able to download Design Space for either Windows or Mac.
-* Click on the cricut design space file after it has been downloaded to install.
+
+* If not, open a browser on your computer and go to `Cricut.com/setup <https://cricut-comsetup.readthedocs.io/>`_ . From here you’ll be able to download Design Space for either Windows or Mac.
+
+* Click on the cricut design space file after it has been downloaded to install.   
+
 * When prompted, enter your Cricut ID and password.
+
 * (Optional) Download the Design Space app to your phone or tablet for mobile ease of use.
+
 * Ready to create? Keep reading for a super easy first project that will introduce all the basics of Design Space!
